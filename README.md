@@ -12,7 +12,7 @@ I build products where business needs, technology and adoption have to meet. The
 
 **Role: Founder & CEO.** I built an early-stage venture joining bonsai craft, connected hardware, sensor data, machine learning and a premium service experience. The venture received the Prix de l'Excellence Française in 2018.
 
-[Read the Bō case study](Jerome%20Illat%20-%20Bo%20case%20study.pdf) · [Excellence Française — Jérôme Illat (Bō) 2018](https://excellencefrancaise.com/fr/membres-de-l-excellence-francaise/le-cercle/)
+[Read the Bō case study](Jerome%20Illat%20-%20Bo%20case%20study.pdf) · [Excellence Française — special AI awards 2018](https://excellencefrancaise.com/fr/laureats/2018-laureats/palmares-special-intelligence-artificielle-2018/)
 
 ## AI Research — Investment Family Office
 
